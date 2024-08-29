@@ -3,10 +3,9 @@
 I'm a software developer based in Brussels, Belgium, specializing in building exceptional websites and mobile applications.
 
 - 🤔 I’m looking for help with React Native to develop an application to find tenants in Brussels.
-- 💬 Ask me about anything related to programming or languages, I give private lessons in programming and French/Spanish.
+- 💬 Ask me about anything related to programming or languages
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-charib-a043a3202/) or message me on [Instagram](https://www.instagram.com/__gab_s/).
 
-- ⚡ Fun fact: Apart from programming, I also give private lessons in programming and languages (French and Spanish) and play music.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
