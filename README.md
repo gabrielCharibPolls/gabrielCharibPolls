@@ -1,6 +1,6 @@
 
 <h2> Welcome 👋 , I'm Gabriel Charib.</h2>
-I'm a software developer based in Brussels, Belgium, specializing in building exceptional websites and mobile applications.
+I'm a software developer based in Brussels, Belgium
 
 - 🤔 I’m looking for help with React Native to develop an application to find tenants in Brussels.
 - 💬 Ask me about anything related to programming or languages
