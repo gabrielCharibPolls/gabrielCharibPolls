@@ -2,9 +2,6 @@
 <h2> Welcome 👋 , I'm Gabriel Charib.</h2>
 I'm a software developer based in Brussels, Belgium, specializing in building exceptional websites and mobile applications.
 
-- 🔭 I’m currently working on a script to automate the creation of Storybooks.
-- 🌱 I’m currently learning Next.js for frontend development and Python for scripting.
-- 👯 I’m looking to collaborate on React Native projects.
 - 🤔 I’m looking for help with React Native to develop an application to find tenants in Brussels.
 - 💬 Ask me about anything related to programming or languages, I give private lessons in programming and French/Spanish.
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-charib-a043a3202/) or message me on [Instagram](https://www.instagram.com/__gab_s/).
