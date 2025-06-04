@@ -6,6 +6,10 @@ I'm a software developer based in Brussels, Belgium
 - 💬 Ask me about anything related to programming or languages
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-charib-a043a3202/) or message me on [Instagram](https://www.instagram.com/__gab_s/).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielCharibPolls&show_icons=true&theme=bear)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielCharibPolls&theme=bear&layout=compact)
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
